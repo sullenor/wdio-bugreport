@@ -1,0 +1,23 @@
+{
+  "name": "wdio-bugreport",
+  "version": "0.0.0",
+  "description": "bugreport for wdio",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sullenor/wdio-bugreport.git"
+  },
+  "author": "Alexey Litvinov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sullenor/wdio-bugreport/issues"
+  },
+  "homepage": "https://github.com/sullenor/wdio-bugreport#readme",
+  "dependencies": {
+    "wdio-mocha-framework": "^0.2.12",
+    "webdriverio": "^4.0.5"
+  }
+}
