@@ -15,7 +15,10 @@ exports.config = {
 
   framework: 'mocha',
 
-  reporters: ['dot'],
+  reporters: ['dot', 'allure'],
+  reporterOptions: {
+    outputDir: './allure-results'
+  },
 
   before: function () {},
 };

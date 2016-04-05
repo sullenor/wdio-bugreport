@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sullenor/wdio-bugreport#readme",
   "dependencies": {
+    "wdio-allure-reporter": "0.0.2",
     "wdio-mocha-framework": "^0.2.12",
     "webdriverio": "^4.0.5"
   }
