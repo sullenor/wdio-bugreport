@@ -20,5 +20,5 @@ exports.config = {
     outputDir: './allure-results'
   },
 
-  before: function () {},
+  waitforTimeout: 500,
 };
