@@ -1,7 +1,7 @@
 wdio-bugreport
 ==============
 
-It's a small example to reproduce the issue: https://github.com/webdriverio/webdriverio/issues/1195
+It's a small example to reproduce the issue: https://github.com/webdriverio/webdriverio/issues/1229
 
 ## Start
 
